@@ -1,0 +1,29 @@
+.daysreturn1{
+    width: 45px;
+    height: 45px;
+    margin-left: 3rem;
+}
+.pay{
+    margin-left: 4rem;
+    font-weight:normal;
+    font-size:large;
+}
+.paymentmethoed{
+    width: 20cap;
+    height: 4rem;
+}
+.delivery{
+    display: flex;
+    gap: 10px;
+    font-weight: normal;
+    margin-top: 2px;
+}
+.followus{
+    margin-top: 2px;
+    height: 5rem;
+    width: 20cap;
+}
+.copyright{
+    font-weight: 500;
+    background-color: rgb(100, 173, 232);
+}

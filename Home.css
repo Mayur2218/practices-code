@@ -1,0 +1,66 @@
+/* .image1{
+    width: 1500px;
+    height: 700px;
+}
+.image2{
+    width: 1500px;
+    height: 700px;
+}
+.image3{
+    width: 1500px;
+    height: 700px;
+}
+.carousel{
+    margin-top: 10px;
+} */
+.cardbox{
+    background-color: rgb(196, 148, 241);
+    margin:0px ;
+    height: 750px;
+    border: none;
+    color: rgb(49, 49, 241);
+}
+.card-body:hover{
+    color: rgb(226, 91, 0);
+    
+}
+.col{
+    text-align: initial;
+    margin-left: 30px;
+    margin-top: 90px;
+}
+.stroked-text {
+    font-size: 48px;
+    color: rgb(0, 0, 0);
+    text-rendering: auto;
+}  
+.card-body{
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    text-transform:uppercase ;
+    font-size: 3.8rem;
+    font-weight: bold;
+    text-overflow: inherit;
+}
+.card-text{
+    color: black;
+    font-size: 2cap;
+    font-weight: 500;
+    text-transform: uppercase;
+    margin-top: 30px;
+    margin-left: 40px;
+}
+.container-fluid{
+    padding-left: 0px;
+    padding-right: 0px;
+    height: 90px;
+    gap: 18rem;
+    display: flex;
+    text-transform: uppercase;
+    font-size: 2cap;
+}
+
+.mainpart{
+    background-color: rgb(196, 148, 241);
+}
